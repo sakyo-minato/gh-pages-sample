@@ -1,3 +1,3 @@
-github pages sample
+# Github pages sample
 
 see https://sakyo-minato.github.io/gh-pages-sample/
